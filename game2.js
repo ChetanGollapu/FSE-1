@@ -33,4 +33,8 @@ public class Main {
 
         scanner.close();
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 6ce3636dcfd0ce62ff2db12435912b3674bbe68d
